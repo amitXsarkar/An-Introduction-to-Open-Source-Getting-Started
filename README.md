@@ -1,4 +1,4 @@
-# Open Source - How to Get Started
+# Open Source - How to Get Started:
 ---------------
 
 Open Source is something where you have a project and its open to all. Anyone can work on it, contribute to the project and build something great.
